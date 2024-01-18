@@ -1,0 +1,19 @@
+h1{
+    margin: 10px;
+}
+p{
+    color: white;
+    margin: 50px;
+    font-size: 20px;
+}
+.post-1{
+    background-color: #d2dae1;
+    margin: 10px;
+    padding: 21px;
+}     
+.post-2{
+    background-color: #34495f;
+    padding: 21px;
+    border-radius: 20px;
+    margin: 10px;
+}
